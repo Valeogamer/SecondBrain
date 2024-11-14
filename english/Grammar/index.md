@@ -1,3 +1,3 @@
 # Grammar
 
-[Verb Tenses](/english/Grammar/VerbTenses.md)
+[Verb Tenses](./VerbTenses.md)
